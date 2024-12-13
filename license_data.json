@@ -1,0 +1,13 @@
+{
+    "AP39M1417": {
+      "name": "John Doe",
+      "profession": "Engineer",
+      "authorization_status": "Authorized"
+    },
+    "XY34EF5678": {
+      "name": "Jane Smith",
+      "profession": "Doctor",
+      "authorization_status": "Unauthorized"
+    }
+  }
+  
